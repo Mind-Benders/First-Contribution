@@ -18,5 +18,9 @@ contributors:
   - name: Aman Tiwari
     url: https://github.com/SultanIndian007
     username: SultanIndian007
+
+  - name: Deexith Madas
+    url: https://github.com/MDeexith
+    username: MDeexith
     
 ---
