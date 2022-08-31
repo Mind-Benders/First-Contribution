@@ -19,6 +19,10 @@ contributors:
     url: https://github.com/SultanIndian007
     username: SultanIndian007
 
+  - name: Ganesh Utla
+    url: https://github.com/ganesh-utla
+    username: ganesh-utla
+    
   - name: Deexith Madas
     url: https://github.com/MDeexith
     username: MDeexith
