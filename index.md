@@ -26,4 +26,8 @@ contributors:
   - name: Deexith Madas
     url: https://github.com/MDeexith
     username: MDeexith
+    
+  - name: Keval Waghate
+    url: https://github.com/KevalW
+    username: KevalW
 ---
