@@ -27,7 +27,7 @@ contributors:
     url: https://github.com/MDeexith
     username: MDeexith
     
-  - name: Keval Waghate
-    url: https://github.com/KevalW
-    username: KevalW
+  - name: Git
+    url: https://github.com/Git
+    username: Git
 ---
