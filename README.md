@@ -23,7 +23,7 @@ Once your fork is completed, open `index.md` file on your repository.
 Next edit this file on your browser by clicking the edit button on top right.
 ![Edit Index](Images/edit-file.png)
 
-Now, under contributors, add your name, GitHub profile URL & GitHub username.
+Now, under contributors, add your Name & GitHub username.
 
 **Don't add it at the beginning or end of the file. Put it anywhere in between.**
 ![Add Your Details](Images/add-details.gif)
