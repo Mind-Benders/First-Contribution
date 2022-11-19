@@ -27,7 +27,7 @@ contributors:
     username: ParthSingh0306
 
   - name: Urmil Pawar
-    username: UrmilP
+    username: UrmilPawar
     
   - name: Keval Waghate
     username: KevalW
