@@ -25,6 +25,9 @@ contributors:
     
   - name: Parth Singh
     username: ParthSingh0306
+
+  - name: Aman
+    username: randomAman
     
   - name: Keval Waghate
     username: KevalW
