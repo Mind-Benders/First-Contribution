@@ -23,6 +23,9 @@ contributors:
   - name: Deexith Madas
     username: MDeexith
     
+  - name: Parth Singh
+    username: ParthSingh0306
+    
   - name: Keval Waghate
     username: KevalW
 ---
