@@ -22,14 +22,13 @@ contributors:
 
   - name: Deexith Madas
     username: MDeexith
+
+  - name: Keval Waghate
+    username: KevalW
     
   - name: Parth Singh
     username: ParthSingh0306
 
   - name: Urmil Pawar
     username: UrmilPawar
-    
-  - name: Keval Waghate
-    username: KevalW
-    
 ---
