@@ -4,7 +4,6 @@ Hi, Let's get started with our very first open-source contribution by following 
 
 You will be adding your name and GitHub Profile Link to this repository for your first open-source contribution
 
-# Lets make this world a better place for all living beings.
 
 # How to Contribute to this Project?
 
