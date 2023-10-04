@@ -16,7 +16,7 @@ Fork this repo by clicking on the fork button on the top right of this page. Thi
 On the next page, click on the `Create fork` button. You may change details as you see fit.
 ![Create Fork](Images/creat-fork.png)
 
-## Edit the File
+## Edit the File.
 
 Once your fork is completed, open `index.md` file on your repository.
 
