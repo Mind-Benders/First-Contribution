@@ -1,3 +1,17 @@
+# Note for HacktoberFest
+
+# Blogs
+
+**for contributing blogs it must be in markdown format and must be pushed in blogs folder in the current directory**
+
+# CODESPACE
+
+**you must upload your entire workspace folder consisting of ipynb notebook and dataset as well in the codespace folder**
+**remember : dont make the codespace folder dirty else your PR wont be accepted, you must upload a single workspace folder named with your name**
+
+**you can also upload your projects if you have any, but they must be good quality projects and for project also you must upload a single folder consisting of all files, dont make the codespace dirty by pushing multiple files since your PR wont get accepted**
+
+
 # First-Contribution
 
 Hi, Let's get started with our very first open-source contribution by following some very easy steps.
