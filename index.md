@@ -11,7 +11,8 @@ menu:
       icon: git-pull-request
 
 contributors:
-    - name: Sharukhali Syed
+
+  - name: Sharukhali Syed
     username: shahsai11111
     
   - name: Kunal Agrawal
