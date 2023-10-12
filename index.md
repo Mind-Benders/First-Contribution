@@ -12,8 +12,11 @@ menu:
 
 contributors:
 
-  - name: Sharukhali
+  - name: Sharukhali Syed
     username: ai-apex-dev
+    
+  - name: Kunal Agrawal
+    username: kunalagra
 
   - name: Aman Tiwari
     username: SultanIndian007
