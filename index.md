@@ -11,8 +11,8 @@ menu:
       icon: git-pull-request
 
 contributors:
-  - name: Kunal Agrawal
-    username: kunalagra
+  - name: Sharukhali Syed
+    username: shahsai11111
 
   - name: Aman Tiwari
     username: SultanIndian007
