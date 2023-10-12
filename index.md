@@ -13,7 +13,7 @@ menu:
 contributors:
 
   - name: Sharukhali Syed
-    username: shahsai11111
+    username: ai-apex-dev
     
   - name: Kunal Agrawal
     username: kunalagra
