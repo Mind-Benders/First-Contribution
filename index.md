@@ -12,7 +12,7 @@ menu:
 
 contributors:
 
-  - name: Sharukhali Syed
+  - name: Sharukhali
     username: ai-apex-dev
 
   - name: Aman Tiwari
