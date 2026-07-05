@@ -18,7 +18,7 @@ On the next page, click on the `Create fork` button. You may change details as y
 
 ## Edit the File.
 
-Once your fork is completed, open `index.md` file on your repository.
+Once your fork is complete, open `index.md` file on your repository.
 
 ![Open Index](Images/index.png)
 Next edit this file on your browser by clicking the edit button on top right.
